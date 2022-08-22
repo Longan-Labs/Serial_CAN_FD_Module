@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For Serial CAN Bus Module
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+can_speed_fd	KEYWORD2
+can_speed_20	KEYWORD2
+initMaskFilt	KEYWORD2
+read_can	KEYWORD2
+set_mask_filt	KEYWORD2
+set_baudrate	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
